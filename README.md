@@ -1,6 +1,6 @@
 # Virtual AI SortBot - Technical Documentation
 
-<video src="path/to/your/video.mp4" autoplay loop muted>
+<video src="https://github.com/abhijeetunreal/AIsortBot/raw/refs/heads/main/Assets/sortbot.mov" autoplay loop muted>
 </video>
 
 ## Table of Contents
