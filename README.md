@@ -1,5 +1,8 @@
 # Virtual AI SortBot - Technical Documentation
 
+<video src="path/to/your/video.mp4" autoplay loop muted>
+</video>
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
